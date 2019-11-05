@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BinarySearch
+comment0.text=\r\n\ Simple\ demonstration\ of\ the\ binary\ search\ algorithm.\r\n\r\n\ @author\ Michael\ T.\ Goodrich\r\n\ @author\ Roberto\ Tamassia\r\n\ @author\ Michael\ H.\ Goldwasser\r\n
+comment1.params=data\ target\ low\ high
+comment1.target=boolean\ binarySearch(int[],\ int,\ int,\ int)
+comment1.text=\r\n\ Returns\ true\ if\ the\ target\ value\ is\ found\ in\ the\ indicated\ portion\ of\ the\ data\ array.\r\n\ This\ search\ only\ considers\ the\ array\ portion\ from\ data[low]\ to\ data[high]\ inclusive.\r\n
+comment2.params=data\ target
+comment2.target=boolean\ binarySearch(int[],\ int)
+comment2.text=Returns\ true\ if\ the\ target\ value\ is\ found\ in\ the\ data\ array.
+comment3.params=data\ target
+comment3.target=boolean\ binarySearchIterative(int[],\ int)
+comment3.text=Returns\ true\ if\ the\ target\ value\ is\ found\ in\ the\ data\ array.
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=Simple\ test,\ assuming\ valid\ integer\ given\ as\ command-line\ argument
+numComments=5
